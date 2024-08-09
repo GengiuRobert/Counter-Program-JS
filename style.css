@@ -1,0 +1,22 @@
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10em;
+    display: block;
+    text-align: center;
+}
+
+#buttonsContainer{
+    display: block;
+    text-align: center;
+}
+
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: hsl(180, 100%, 50%);
+}
+
+button:hover{
+    background-color:hsl(180, 50%, 50%) ;
+}
